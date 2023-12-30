@@ -12,4 +12,4 @@ Crear un dropdown window que permita al usuario cambiar el color de ojos.
 Crear un dropdown window que permita al usuario darle un rostro de caricaturas reconocidas.
 
 Información de licencia:
-MIT lisence
+MIT licence
